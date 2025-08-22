@@ -17,3 +17,4 @@ Além das funcionalidades, o projeto também conta com testes utilizando o Pytes
 -Pytest (para rodar os testes)
 
 Para instalar o Pytest, utilize o comando: pip install pytest
+
